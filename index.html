@@ -107,10 +107,7 @@
 <link rel="preload" as="image" href="https://s13.gifyu.com/images/bqMXo.png">
 
 <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
-<meta name="google-site-verification" content="OlywRAXdpHkKt5_MbMyxEi11AN3VuTyrgIOKQys636E" />
-<meta name="google-site-verification" content="f0gMwgX9Icz3v4oDC-B08-nLsd2baePXzDgTHvghAww" />
-<meta name="google-site-verification" content="CPCjz8DaGQsj9MXWZGJGWkA0bjQAiokwcUFWVh9en-4" />
-<meta name="google-site-verification" content="ijKQ0UjFPSD8Gx-mjiFMp8LkCyJVccQGQFxUH5Hc0Xs" />
+<meta name="google-site-verification" content="ZABSGX9z-QPuUUOeZxQJ8KIX9RvSezrrz_vBqsrqeuQ" />
 
 <link rel="canonical" href="https://bebektoto-id.github.io/" />
 <link rel="dns-prefetch" href="twitter.com">
